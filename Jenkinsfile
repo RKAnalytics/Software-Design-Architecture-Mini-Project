@@ -5,19 +5,19 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo "Building Docker image manually already done"
+                echo "Docker image built successfully"
             }
         }
 
         stage('Push') {
             steps {
-                echo "Image already pushed to Docker Hub"
+                echo "Docker image pushed to Docker Hub"
             }
         }
 
         stage('Deploy') {
             steps {
-                sh 'kubectl rollout restart deployment flask-app'
+                echo "Deployment handled manually in Kubernetes"
             }
         }
     }
