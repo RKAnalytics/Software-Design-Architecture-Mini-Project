@@ -90,8 +90,8 @@ This spins up both the Flask app and a MySQL database together:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/SDA-Project.git
-cd SDA-Project
+git clone https://github.com/RKAnalytics/Software-Design-Architecture-Mini-Project.git
+cd Software-Design-Architecture-Mini-Project
 
 # Build and start all services
 docker-compose up --build
