@@ -210,4 +210,4 @@ The MySQL service in `docker-compose.yml` uses the following default:
 
 ## 📄 License
 
-This project is for educational purposes as part of an SDA (Software Design & Architecture) course project.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
