@@ -1,5 +1,12 @@
 # 🚀 SDA DevOps Project
 
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-2.0-lightgrey.svg)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue.svg)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-326CE5.svg)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A containerized **Flask web application** with a full DevOps pipeline — Docker, Docker Compose, Jenkins CI/CD, and Kubernetes deployment.
 
 ---
@@ -209,5 +216,9 @@ The MySQL service in `docker-compose.yml` uses the following default:
 ---
 
 ## 📄 License
+
+## 📄 License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
