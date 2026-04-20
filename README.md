@@ -217,8 +217,6 @@ The MySQL service in `docker-compose.yml` uses the following default:
 
 ## 📄 License
 
-## 📄 License
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
