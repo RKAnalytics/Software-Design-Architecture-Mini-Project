@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: yourdockerhubusername/myapp:v1
+        image: rafay123/myapp:v1
         ports:
         - containerPort: 5000
